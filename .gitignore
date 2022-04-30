@@ -58,3 +58,17 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Temp cache directory
+*.Temp/
+
+# Library cache directory
+*.Library/
+
+# ProjectSettings cache directory
+*.ProjectSettings/
+
+# Logs cache directory
+*.Logs/
+
+# Assets MS cache directory
+*.Assets/MS/
